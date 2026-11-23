@@ -1,6 +1,6 @@
 # UmaSurvival
 
-'CYGAMES'의 "우마무스메-프리티더비'를 모티브로 만든 Unity 2D 생존 액션 팬 프로젝트입니다. 
+'CYGAMES'사의 "우마무스메-프리티더비"를 모티브로 만든 Unity 2D 생존 액션 팬 프로젝트입니다. 
 
 **Unity 6.2 (6000.2.9f1) · C# · URP 2D · Input System · TextMesh Pro**
 
