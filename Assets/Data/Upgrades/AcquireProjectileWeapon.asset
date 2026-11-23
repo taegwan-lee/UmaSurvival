@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c228fc46bd810b4da56991c68c46960, type: 3}
+  m_Name: AcquireProjectileWeapon
+  m_EditorClassIdentifier: Assembly-CSharp::AddWeaponUpgrade
+  displayName: "\uBC25 \uADF8\uB987 \uACF5\uACA9"
+  description: "\uAC00\uAE4C\uC6B4 \uC801\uC744 \uD5A5\uD574 \uBC25\uADF8\uB987\uC744
+    \uB358\uC9D1\uB2C8\uB2E4"
+  maxRank: 1
+  weaponPrefab: {fileID: 947767510438130080, guid: 785ed30ee7341594589e00f9209f19d8, type: 3}

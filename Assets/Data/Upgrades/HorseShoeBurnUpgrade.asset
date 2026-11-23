@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39f7c1a38b88ca343a63dfb0de2060cb, type: 3}
+  m_Name: HorseShoeBurnUpgrade
+  m_EditorClassIdentifier: Assembly-CSharp::HorseShoeBurnUpgrade
+  displayName: "\uBC84\uB2DD \uD0A5!"
+  description: "\uC815\uC5F4\uC758 \uD798\uC744 \uB2F4\uC544 \uD3B8\uC790\uAC00 \uB0A8\uC740
+    \uACF3\uC5D0 \uBD88\uC774 \uD0C0\uBA70 \uC9C0\uC18D\uC801\uC73C\uB85C \uC801\uC744
+    \uACF5\uACA9\uD558\uB294 \uC601\uC5ED\uC744 \uB0A8\uAE41\uB2C8\uB2E4."
+  maxRank: 1
