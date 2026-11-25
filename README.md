@@ -2,7 +2,9 @@
 
 'CYGAMES'사의 "우마무스메-프리티더비"를 모티브로 만든 Unity 2D 생존 액션 팬 프로젝트입니다. 
 
-**Unity 6.2 (6000.2.9f1) · C# · URP 2D · Input System · TextMesh Pro**
+##원작의 캐릭터, 명칭, 로고 및 공식 그래픽에 대한 권리는 Cygames, Inc.와 각 권리자에게 있습니다.
+
+**Unity 6.2 (6000.2.9f1) · C# · URP 2D **
 
 ## 실행 방법
 
